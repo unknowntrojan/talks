@@ -9,6 +9,7 @@
 | Co-speakers | None |
 | Event page | [https://www.meetup.com/rust-linz/events/294718621](meetup.com)  |
 | Slides | [Slides](slides.pdf) |
+| Blog Post | [Blog Post](https://unknowntrojan.win/2023/08/24/rustlinz/) |
 
 ## Rust learning resources
 
