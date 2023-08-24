@@ -17,4 +17,5 @@ I have provided some resources on learning Rust [here](/RUST.md).
 ## Pictures
 
 ![pic.jpg](pic.jpg)
+
 Left: one of my friends, Right: me
