@@ -12,7 +12,7 @@
 
 ## Rust learning resources
 
-I have provided some resources on learning Rust [here](RUST.md).
+I have provided some resources on learning Rust [here](/RUST.md).
 
 ## Pictures
 
