@@ -5,7 +5,7 @@
 | Topic | Quick orientation for C++ developers looking to try Rust |
 | Location | Dynatrace HQ, Linz, Austria |
 | Date (DMY) | 23.08.2023 |
-| VOD | [https://youtu.be/XNgXX5CM1nw?t=4298](VOD) |
+| VOD | [https://youtu.be/krtZGDewYpo](VOD) |
 | Co-speakers | None |
 | Event page | [https://www.meetup.com/rust-linz/events/294718621](meetup.com)  |
 | Slides | [Slides](slides.pdf) |
